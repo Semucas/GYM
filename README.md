@@ -1,2 +1,4 @@
 # gym
-GYM XYZ
+Webpage GYM XYZ ( practicing)
+#Author
+Sebastián Muñoz Castañeda
