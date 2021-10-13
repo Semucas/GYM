@@ -4,3 +4,6 @@ body {
   color: white;
   text-align: center;
 }
+img{
+  filter: blur(3px);
+}
