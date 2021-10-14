@@ -3,5 +3,7 @@ body {
   color: white;
 }
 img {
-  text-align:center;
+  margin-left: auto;
+    margin-right: auto;
+    width: 8em
 }
